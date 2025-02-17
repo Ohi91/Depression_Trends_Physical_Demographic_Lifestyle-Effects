@@ -6,12 +6,21 @@ What is the relationship between physical, demographic, or lifestyle factors and
 
 **Hypotheses:**
 H1: Regular physical activity is linked to better mental health and reduced depression.
+
 H2: Higher TV screen time correlates with more days of feeling little interest in activities.
+
 H3: Alcohol consumption is associated with increased mental health disorders.
+
 H4: Married adults or those living with a partner report fewer days of depression.
+
 H5: Higher education levels correlate with lower depression rates.
+
 H6: Higher income levels are linked to fewer days of depression.
+
 H7: Older adults experience fewer days of depression than younger adults.
+
 H8: Higher BMI is associated with an increased likelihood of depression.
+
 H9: Sleep disturbances increase the likelihood of depression.
+
 H10: Perceived poor general health is linked to higher depression symptoms.
